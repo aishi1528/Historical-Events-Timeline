@@ -12,7 +12,7 @@ A beautiful and interactive web app that lets you explore historical events by d
 ---
 
 ## 🚀 Live Demo  
-👉 [Check it out here]()
+👉 [Check it out here](https://aishi1528.github.io/Historical-Events-Timeline/)
 
 ---
 
